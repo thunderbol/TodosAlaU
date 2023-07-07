@@ -4,5 +4,14 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Scenes/Menu.unity
+    guid: 2f56db01566475146856ab8f99353d20
+  - enabled: 1
+    path: Assets/_Scenes/PinguinosGame.unity
+    guid: d9093ef9dc90a7140929a598777437bc
+  - enabled: 1
+    path: Assets/_Scenes/SelectLevels.unity
+    guid: 7de052c18bdf4ba45b7121bd121c4f67
   m_configObjects: {}
